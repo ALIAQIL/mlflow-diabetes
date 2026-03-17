@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
 *.pyo
+.mlruns/
 .mlflow/
 *.egg-info/
 dist/
@@ -11,3 +12,4 @@ build/
 htmlcov/
 *.log
 .DS_Store
+mlruns/
