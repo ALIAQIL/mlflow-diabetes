@@ -1,0 +1,10 @@
+Run: RF_regularized
+
+              precision    recall  f1-score   support
+
+           0       0.78      0.85      0.81       100
+           1       0.67      0.56      0.61        54
+
+    accuracy                           0.75       154
+   macro avg       0.72      0.70      0.71       154
+weighted avg       0.74      0.75      0.74       154
